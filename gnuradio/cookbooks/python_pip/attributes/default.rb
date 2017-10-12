@@ -1,0 +1,2 @@
+default[:workingdir] = '/home/vagrant'
+
